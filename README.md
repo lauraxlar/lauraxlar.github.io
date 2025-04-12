@@ -135,16 +135,10 @@
 <body>
   <div class="container">
     <div class="profile">
-      <img src="https://honestlymas.xyz/rep_eras_tour.gif" alt="Profile Picture">
-      <h1>honestly_mas</h1>
-      <p>@honestly_mas</p>
-      <p>Welcome to my personal site!</p>
-    </div>
-
-    <div class="links">
-      <a href="https://honestlymas.xyz/links/twitter" target="_blank">Twitter</a>
-      <a href="https://honestlymas.xyz/404" target="_blank">TikTok - Coming Soon</a>
-      <a href="https://honestlymas.xyz/404" target="_blank">ROBLOX - Coming Soon</a>
+      <img src="https://giphy.com/gifs/red-Q18esPAwMiofe" alt="Profile Picture">
+      <h1>laura</h1>
+      <p>@synscer</p>
+      <p>welcome to my about me!</p>
     </div>
 
     <div class="fun-facts">
