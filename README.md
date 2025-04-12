@@ -144,15 +144,15 @@
     <div class="links">
       <a href="https://honestlymas.xyz/links/twitter" target="_blank">Twitter</a>
       <a href="https://honestlymas.xyz/404" target="_blank">TikTok - Coming Soon</a>
-      <a href="https://honestlymas.xyz/404" target="_blank">ROBLOX - Coming Soon</a>
+      <a href="https://www.roblox.com/users/367779976/profile"_blank">ROBLOX - roblox</a>
     </div>
 
     <div class="about me!">
       <h2>about me!</h2>
       <ul>
-        <li>I'm a staff member at RTU.</li>
-        <li>I made RTU's website.</li>
-        <li>I LOVEEE Taylor Swift.</li>
+        <li>i like exploting!</li>
+        <li>i love lana del ray!</li>
+        <li>I LOVEEE watching adele's concerts!.</li>
       </ul>
     </div>
 
