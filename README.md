@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Roblox Trolling Union</title>
+  <title>Roblox Trolling Center</title>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
   <style>
     * {
@@ -13,8 +13,8 @@
     }
 
     body {
-      background-color: #0f0f0f;
-      color: #f0f0f0;
+      background-color: ##6410a1;
+      color: ##6410a1;
       overflow-x: hidden;
     }
 
@@ -23,7 +23,7 @@
       width: 20px;
       height: 20px;
       border-radius: 50%;
-      background-color: rgba(255, 0, 0, 0.5);
+      background-color: rgba(100, 16, 161);
       pointer-events: none;
       z-index: 9999;
       transform: translate(-50%, -50%);
@@ -82,7 +82,7 @@
 
     nav {
       background-color: #1a1a1a;
-      border-bottom: 2px solid #ff0000;
+      border-bottom: 2px solid ##6410a1;
       position: sticky;
       top: 0;
       z-index: 100;
@@ -550,10 +550,10 @@
     <div class="tab-content active" id="home">
       <div class="announcement">
         <h2>🔥 Latest Update - April 12, 2025</h2>
-        <p>Welcome to the new Roblox Trolling Union website! We've added new scripts and resources to help you become the ultimate troller.</p>
+        <p>Welcome to the new Roblox Trolling Center website! We've added new scripts and resources to help you become the ultimate troller.</p>
       </div>
 
-      <h2>Welcome to the Roblox Trolling Union</h2>
+      <h2>Welcome to the Roblox Trolling Center</h2>
       ‎ 
 
       <p>We are a community dedicated to the art of trolling in Roblox. Our mission is to provide high-quality, verified scripts and techniques to make your trolling experience more enjoyable and effective.</p>
@@ -584,23 +584,11 @@
         <p class="script-description">Has alot of functionallity, Good general purpose script.</p>
         <div class="script-meta">
           <div>Updated: April 12, 2025</div>
-          <div>Creator: BurntRibs24</div>
+          <div>Creator: syncser</div>
           <div>Rating: ⭐⭐⭐⭐⭐</div>
         </div>
         <button class="download-btn">Copy Script</button>
       </div>
-
-      <div class="script-card">
-        <h3 class="script-title">lancet <span class="verified-badge">Verified</span></h3>
-        <p class="script-description">Automatically kills cars using a good player fling method.</p>
-        <div class="script-meta">
-          <div>Updated: April 12, 2025</div>
-          <div>Creator: Mye and Rosploiter</div>
-          <div>Rating: ⭐⭐⭐⭐⭐</div>
-        </div>
-        <button class="download-btn">Copy Script</button>
-      </div>
-    </div>
 
     <div class="tab-content" id="tutorials">
       <h2>Trolling Tutorials</h2>
