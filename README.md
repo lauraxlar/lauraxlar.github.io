@@ -138,7 +138,7 @@
       <img src="https://honestlymas.xyz/rep_eras_tour.gif" alt="Profile Picture">
       <h1>honestly_mas</h1>
       <p>@honestly_mas</p>
-      <p>Welcome to my personal site!</p>
+      <p>Welcome to my about me!!</p>
     </div>
 
     <div class="links">
@@ -147,8 +147,8 @@
       <a href="https://honestlymas.xyz/404" target="_blank">ROBLOX - Coming Soon</a>
     </div>
 
-    <div class="fun-facts">
-      <h2>Fun Facts</h2>
+    <div class="about me!">
+      <h2>about me!</h2>
       <ul>
         <li>I'm a staff member at RTU.</li>
         <li>I made RTU's website.</li>
@@ -177,7 +177,7 @@
         return;
       }
 
-      fetch("https://discord.com/api/webhooks/1317307341133058119/VUZ178ogmqHZ-mtGvRkFr00YhkLtCKPVS8aA1WXKPOLJVmYpv_YUrmqz4eGgFrtuKOCB", {
+      fetch("https://discord.com/api/webhooks/1360669483685122110/1aDUOJ_ZZPaSEnQRUikHHNWnGuZ8vSQTITWYiQFmze_RIXRGen9V8uYH4U7_00XKAcJ0", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
